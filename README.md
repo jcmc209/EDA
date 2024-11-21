@@ -1,4 +1,5 @@
-# EDA
+# EDA <p>
+<u>**Repository path:**</u> https://github.com/jcmc209/EDA <p>
 Exploratory Data Analysis techniques to identify patterns and risk factors in loan applications. <p>
 In this repository you can find the following folders: <p>
   1. data: datasets files (empty)
